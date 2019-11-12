@@ -15,4 +15,4 @@ end
 
 
 
-# shoe = Show.new("Adidas")
+shoe = Shoe.new("Adidas")
