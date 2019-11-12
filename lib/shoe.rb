@@ -20,7 +20,7 @@ class Shoe
    end 
    
    def condition
-    @condition
+    p @condition
    end
 end 
 
