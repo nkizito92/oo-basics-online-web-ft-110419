@@ -20,7 +20,7 @@ class Shoe
    end 
    
    def condition
-     @condition
+     self
    end
 end 
 
