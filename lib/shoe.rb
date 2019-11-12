@@ -27,5 +27,5 @@ end
 
 
 shoe = Shoe.new("Adidas")
-shoe.condition = "tattered"
+shoe.condition = "new"
 shoe.condition
