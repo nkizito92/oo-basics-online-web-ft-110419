@@ -20,7 +20,7 @@ class Shoe
    end 
    
    def condition
-     p "new" if 
+     p "new" 
    end
 end 
 
